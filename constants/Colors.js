@@ -1,0 +1,18 @@
+export const Colors = {
+  primary: "#3a65fd",
+  backgroundTwo: "#f2f5ff",
+  lightGreyBg: "#f3f3f8",
+  inputBackground: "#EEF1FF",
+  iconColor: "#6688fe",
+  whiteBackground: "white",
+  inActiveTabs: "#697565",
+  greyIcon: "grey",
+  whiteText: "white",
+  blackText: "#333",
+  primaryBtnPressed: "#2951d6",
+  buttonGreen: "#10b981",
+  errorText: "#ff6161",
+  skeleton: "rgba(120,120,128,0.12)",
+  skeletonGlow: "rgba(120,120,128,0.25)",
+  disabledBtn: "#0099cc;",
+};
